@@ -12,7 +12,7 @@ Interface web utilisée afin d'expliquer à l'élève de façon visuelle le fonc
 
 ## Liens du projet :
 
-### Web-Application : https://damien-auversack.github.io/triClassique/
+### Web-Application : https://damien-auversack.github.io/Tri-Classique/
 
 ## Images de présentation :
 
