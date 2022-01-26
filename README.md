@@ -2,11 +2,13 @@
 
 ## Informations
 
+Technologies : HTML, CSS, JS.
+
+## Description
+
 Mini projet réalisé dans le cadre d'un tutorat donné à la Helha. 
 
 Interface web utilisée afin d'expliquer à l'élève de façon visuelle le fonctionnement d'un tri classique.
-
-## Description
 
 ## Liens du projet :
 
