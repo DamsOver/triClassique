@@ -1,4 +1,4 @@
-# triClassique | Projet personnel | [FR]
+# Tri-Classique | Projet personnel | [FR]
 
 ## Informations
 
